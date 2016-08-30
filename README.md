@@ -15,6 +15,8 @@
 
 ## 最果ての地
 
+-   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/basecamp/01.md)
+
 ## リギュラの炎塔
 
 ## 燃えさかる腹
