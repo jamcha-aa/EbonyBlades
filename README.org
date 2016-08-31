@@ -17,6 +17,7 @@
 
 ** 最果ての地
    - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/basecamp/01.md][01]]
+   - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/basecamp/02.md][02]]
 
 ** リギュラの炎塔
 
