@@ -21,6 +21,8 @@
 
 ## リギュラの炎塔
 
+-   [01 (stub)](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/01.md)
+
 ## 燃えさかる腹
 
 ## 聖樹の炎
