@@ -9,20 +9,20 @@
 ## プロローグ
 
 -   [01](./articles/prologue/01.md)
--   [02](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/prologue/02.md)
--   [03](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/prologue/03.md)
--   [04](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/prologue/04.md)
+-   [02](./articles/prologue/02.md)
+-   [03](./articles/prologue/03.md)
+-   [04](./articles/prologue/04.md)
 
 ## 最果ての地
 
--   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/basecamp/01.md)
--   [02](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/basecamp/02.md)
--   [03](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/basecamp/03.md)
+-   [01](./articles/basecamp/01.md)
+-   [02](./articles/basecamp/02.md)
+-   [03](./articles/basecamp/03.md)
 
 ## リギュラの炎塔
 
--   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/01.md)
--   [02](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/02.md)
+-   [01](./articles/ligulastower/01.md)
+-   [02](./articles/ligulastower/02.md)
 -   03
 
 ## 燃えさかる腹
