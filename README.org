@@ -23,7 +23,9 @@
 ** リギュラの炎塔
    - [[./articles/ligulastower/01.md][01]]
    - [[./articles/ligulastower/02.md][02]]
-   - 03
+   - [[./articles/ligulastower/03.md][03]]
+   - 04
+
 
 ** 燃えさかる腹
 
