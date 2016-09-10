@@ -1,0 +1,37 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* リギュラの炎塔-04
+  
+  影は窓の外に潜んでいた。背後からの攻撃は正面よりもダメージが大きい。
+  なんとか踏みとどまり，エスが後方に避けると，別の窓からも影が登ってき
+  た。敵はエスをこの通路で挟み撃ちにするため，窓の外にしがみついて隠れ
+  ていたのだ。
+
+  エスは正面から斬りつけてくる敵に合わせ，カウンター攻撃を決めた。その
+  まま相手がのけぞるのに合わせて脇をくぐり抜ける。窮地を脱しエントラン
+  スまで後退したエスは，落ち着いて治癒を唱え，追ってくる敵を始末した。
+  がむしゃらに攻撃せず，カウンターを決めたことで何とか生き延びられたが，
+  紙一重の戦いであった。
+
+  改めて奥の部屋に向かい，入り口の壁に隠れていた影を倒してからあたりを
+  見回した。殺風景な部屋には，貴重品の入った箱と，壁にぶらさがり鈍く光
+  を反射する鍵があった。おそらくこの鍵で階下の扉を開けられるだろう。
+
+
+
+  <br>
+  <br>
+  [[./05.md][リギュラの炎塔-05へ]]
+
+
+  <br>
+  <br>
+  この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
+
+  This document is under a [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][License Creative Commons Attribution Non Commercial Share Alike 4.0 International]]
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]]
+
