@@ -26,7 +26,8 @@
 -   [03](./articles/ligulastower/03.md)
 -   [04](./articles/ligulastower/04.md)
 -   [05](./articles/ligulastower/05.md)
--   06
+-   [06](./articles/ligulastower/06.md)
+-   07
 
 ## 燃えさかる腹
 
