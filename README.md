@@ -8,26 +8,26 @@
 
 ## プロローグ
 
--   [01](./articles/prologue/01.md)
--   [02](./articles/prologue/02.md)
--   [03](./articles/prologue/03.md)
--   [04](./articles/prologue/04.md)
+-   [01](./EbonyBlades/blob/master/articles/prologue/01.md)
+-   [02](./EbonyBlades/blob/master/articles/prologue/02.md)
+-   [03](./EbonyBlades/blob/master/articles/prologue/03.md)
+-   [04](./EbonyBlades/blob/master/articles/prologue/04.md)
 
 ## 最果ての地
 
--   [01](./articles/basecamp/01.md)
--   [02](./articles/basecamp/02.md)
--   [03](./articles/basecamp/03.md)
+-   [01](./EbonyBlades/blob/master/articles/basecamp/01.md)
+-   [02](./EbonyBlades/blob/master/articles/basecamp/02.md)
+-   [03](./EbonyBlades/blob/master/articles/basecamp/03.md)
 
 ## リギュラの炎塔
 
--   [01](./articles/ligulastower/01.md)
--   [02](./articles/ligulastower/02.md)
--   [03](./articles/ligulastower/03.md)
--   [04](./articles/ligulastower/04.md)
--   [05](./articles/ligulastower/05.md)
--   [06](./articles/ligulastower/06.md)
--   [07](./articles/ligulastower/07.md)
+-   [01](./EbonyBlades/blob/master/articles/ligulastower/01.md)
+-   [02](./EbonyBlades/blob/master/articles/ligulastower/02.md)
+-   [03](./EbonyBlades/blob/master/articles/ligulastower/03.md)
+-   [04](./EbonyBlades/blob/master/articles/ligulastower/04.md)
+-   [05](./EbonyBlades/blob/master/articles/ligulastower/05.md)
+-   [06](./EbonyBlades/blob/master/articles/ligulastower/06.md)
+-   [07](./EbonyBlades/blob/master/articles/ligulastower/07.md)
 -   08
 
 ## 燃えさかる腹
