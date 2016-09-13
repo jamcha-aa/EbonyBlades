@@ -28,7 +28,8 @@
 -   [05](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/05.md)
 -   [06](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/06.md)
 -   [07](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/07.md)
--   08
+-   [08](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/08.md)
+-   09
 
 ## 燃えさかる腹
 
