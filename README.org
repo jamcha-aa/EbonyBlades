@@ -30,7 +30,7 @@
    - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/07.md][07]]
    - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/08.md][08]]
    - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/09.md][09]]
-   - 10
+   - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/10.md][10]]
 
 
 ** 燃えさかる腹
