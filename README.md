@@ -32,9 +32,11 @@
 -   [09](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/09.md)
 -   [10](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/10.md)
 -   [11](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/11.md)
--   12
+-   [12](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/ligulastower/12.md)
 
 ## 燃えさかる腹
+
+-   01
 
 ## 聖樹の炎
 
