@@ -40,7 +40,7 @@
 ** 聖樹の炎
 
 ** 水の都ローメシア
-
+   - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/01.md][01]]
 ** そびえたつ水門
 
 ** 結水石

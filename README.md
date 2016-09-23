@@ -42,6 +42,8 @@
 
 ## 水の都ローメシア
 
+-   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/01.md)
+
 ## そびえたつ水門
 
 ## 結水石
