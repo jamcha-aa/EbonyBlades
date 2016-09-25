@@ -2,7 +2,6 @@
 #+OPTIONS: \n:t
 
 * 黒檀の刃
-
 **  /お前も見ただろう，魂の残骸を。/
 
   聖霊の加護を失い滅亡した国，アーケイ。「黒檀の誓約」を持つ主人公エス
@@ -41,6 +40,7 @@
 
 ** 水の都ローメシア
    - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/01.md][01]]
+
 ** そびえたつ水門
 
 ** 結水石
