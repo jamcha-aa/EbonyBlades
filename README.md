@@ -50,6 +50,8 @@
 
 ## 風の渓谷
 
+-   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/stormvalley/01.md)
+
 ## 風車街ポレアニス
 
 ## 嵐の大空洞

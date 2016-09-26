@@ -46,6 +46,7 @@
 ** 結水石
 
 ** 風の渓谷
+   - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/stormvalley/01.md][01]]
 
 ** 風車街ポレアニス
 
