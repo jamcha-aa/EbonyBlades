@@ -58,7 +58,7 @@
 
 ## 巨人平原
 
--   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/plainofgiant/01.md)
+-   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/planeofgiant/01.md)
 
 ## 天を支える神殿
 

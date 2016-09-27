@@ -53,7 +53,7 @@
 ** 嵐の大空洞
 
 ** 巨人平原
-   - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/plainofgiant/01.md][01]]
+   - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/planeofgiant/01.md][01]]
 
 ** 天を支える神殿
 
