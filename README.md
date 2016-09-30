@@ -43,6 +43,7 @@
 ## 水の都ローメシア
 
 -   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/01.md)
+-   [02](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/02.md)
 
 ## そびえたつ水門
 
