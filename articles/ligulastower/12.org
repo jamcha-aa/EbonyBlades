@@ -20,7 +20,7 @@
   幻魔王の名は知っているな？
   私はこれまで数多くの魔術師を見てきたが，
   彼は本当の天才だったよ。
-  尤もここに来ておかしくなってしまったがな。
+  尤もここに来ておかしくなってしまったようだが。
   ハハハ…」
 
   エスは多弁なカーリオンに妹を知らないかを尋ねた。
@@ -54,7 +54,8 @@
   <br>
   [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/01.md][燃えさかる腹-01へ]]
 
-
+  <br>
+  [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
   <br>
   <br>
   この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
