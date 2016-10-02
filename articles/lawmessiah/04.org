@@ -45,7 +45,7 @@
 
   <br>
   <br>
-  水の都ローメシア-05へ
+  [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/05.md][水の都ローメシア-05へ]]
 
   <br>
   [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
