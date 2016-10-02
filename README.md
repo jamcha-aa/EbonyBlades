@@ -1,6 +1,6 @@
 # 黒檀の刃
 
-## *お前も見ただろう，魂の残骸を。*
+## *お前も見ただろう，この国をさまよう魂の残骸を。*
 
 聖霊の加護を失い滅亡した国，アーケイ。「黒檀の誓約」を持つ主人公エス  
 は，消息を絶った妹を救うべく魔物の巣と化した都に足を踏み入れる。血と  
@@ -47,6 +47,7 @@
 -   [03](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/03.md)
 -   [04](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/04.md)
 -   [05](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/05.md)
+-   [06](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/06.md)
 
 ## そびえたつ水門
 
