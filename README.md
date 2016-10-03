@@ -48,6 +48,8 @@
 -   [04](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/04.md)
 -   [05](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/05.md)
 -   [06](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/06.md)
+-   [07](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/07.md)
+-   08
 
 ## そびえたつ水門
 
