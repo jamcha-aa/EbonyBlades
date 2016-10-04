@@ -2,7 +2,7 @@
 #+OPTIONS: \n:t
 
 * 黒檀の刃
-[[file:ebonyblades-header.png]]
+[[file:ebonyblades-header.jpg]]
 
 **  /お前も見ただろう，この国をさまよう魂の残骸を。/
 

@@ -1,6 +1,6 @@
 # 黒檀の刃
 
-![img](ebonyblades-header.png)  
+![img](ebonyblades-header.jpg)  
 
 ## *お前も見ただろう，この国をさまよう魂の残骸を。*
 
