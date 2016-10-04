@@ -1,4 +1,4 @@
-# 黒檀の刃
+# Ebony Blades / 黒檀の刃
 
 ![img](ebonyblades-header.jpg)  
 

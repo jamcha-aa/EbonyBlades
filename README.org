@@ -1,7 +1,7 @@
 #+OPTIONS: toc:nil
 #+OPTIONS: \n:t
 
-* 黒檀の刃
+* Ebony Blades / 黒檀の刃
 [[file:ebonyblades-header.jpg]]
 
 **  /お前も見ただろう，この国をさまよう魂の残骸を。/
