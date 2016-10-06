@@ -59,11 +59,11 @@
   
   「また来るがよい。相棒のことは頼んだぞ」
 
-  思わぬ収穫にエスは感謝し，付近の探索をはじめた。
+  思わぬ収穫にエスは感謝し，別れの挨拶をすると，付近の探索をはじめた。
 
   <br>
   <br>
-  水の都ローメシア-12へ
+  [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/12.md][水の都ローメシア-12へ]]
 
   <br>
   [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
