@@ -33,7 +33,7 @@
 
   <br>
   <br>
-  燃えさかる腹-02へ
+  [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/02.md][燃えさかる腹-02へ]]
 
   <br>
   [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]

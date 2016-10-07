@@ -37,6 +37,8 @@
 
 ** 燃えさかる腹
    - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/01.md][01]]
+   - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/02.md][02]]
+   - 03
 
 ** 聖樹の炎
 
