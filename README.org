@@ -40,7 +40,8 @@
    - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/02.md][02]]
    - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/03.md][03]]
    - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/04.md][04]]
-   - 05
+   - [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/05.md][05]]
+   - 06
 
 ** 聖樹の炎
    - 01
@@ -93,7 +94,6 @@
 
 ** 銀世界
    - 01
-
 
 ** 
    この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
