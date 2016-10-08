@@ -1,0 +1,46 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 燃えさかる腹-04
+
+  結晶石へ復活したエスは，ある程度このエリアに慣れたのもあり，他の道が
+  ないかを調べながら進んだ。そして再び溶岩池にあるハシゴを昇ると，トゲ
+  の魔物や狂った兵士が跋扈する地へとたどり着いた。
+
+  エスは自身が落下した場所を思い出していた。足場が崩れているのは先の一
+  箇所だけではあるまい。そしてこれまで魔物の猛攻を避けようと隠密行動を
+  とってきたが，積極的にうって出るときだとエスは感じた。
+
+  鎌を持ったトゲの魔物はやはり強く，無傷で倒すことは困難だった。だが治
+  癒を使いながら着実に一体ずつ始末してゆく。そして，道中で床が崩れてい
+  る箇所を確認していった。その穴は大きく，残念ながら飛び越えられるほど
+  ではない。
+
+  エスはそこから最も近い場所を巡回している魔物に攻撃した。すぐさま敵は
+  臨戦体勢をとり，襲ってくる。範囲の長い鎌攻撃をかわしつつ，エスはじり
+  じりと後退していった。そしてある程度距離が離れたとき，敵は丸くなり猛
+  烈な速度で転がってきた。
+
+  間一髪で横道にそれるものの，すぐさま敵は追ってきた。そして再び転がっ
+  てくる。エスは全力で走り，追いつかれる直前でようやく角へ飛び込んだ。
+
+  
+
+
+
+  <br>
+  <br>
+  燃えさかる腹-05へ
+
+  <br>
+  [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
+  <br>
+  <br>
+  この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
+
+  This document is under a [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][License Creative Commons Attribution Non Commercial Share Alike 4.0 International]]
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]]
+
