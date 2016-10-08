@@ -46,6 +46,8 @@
 
 ## 聖樹の炎
 
+-   01
+
 ## 水の都ローメシア
 
 -   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/lawmessiah/01.md)
@@ -66,27 +68,47 @@
 
 ## そびえたつ水門
 
+-   01
+
 ## 結水石
+
+-   01
 
 ## 風の渓谷
 
 -   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/stormvalley/01.md)
+-   02
 
 ## 風車街ポレアニス
 
+-   01
+
 ## 嵐の大空洞
+
+-   01
 
 ## 巨人平原
 
 -   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/planeofgiant/01.md)
+-   02
 
 ## 天を支える神殿
 
+-   01
+
 ## 誓いの闘技場
+
+-   01
 
 ## 月の都
 
+-   01
+
 ## 銀世界
+
+-   01
+
+## 
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
