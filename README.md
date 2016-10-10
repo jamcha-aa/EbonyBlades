@@ -44,7 +44,8 @@
 -   [04](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/04.md)
 -   [05](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/05.md)
 -   [06](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/06.md)
--   07
+-   [07](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/07.md)
+-   08
 
 ## 聖樹の炎
 
