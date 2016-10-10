@@ -1,0 +1,37 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* 燃えさかる腹-07
+
+  ハンドルを回すと，巨石同士がぶつかるような音とともに，床が揺れだした。
+  エスは一旦よろけ，姿勢を取り戻す。揺れとともに壁が回転する。それだけ
+  でなく，身体の慣性から，地面そのものも動いているようだった。
+
+  間もなく動きが止まった。すると，壁の一部が開き，中から狂気に囚われた
+  兵士達が現れ，再び轟音とともに床が動きはじめた。エスは背後をとられな
+  いよう立ち回り，兵士の攻撃を捌いてゆく。
+
+  するとまたしても床が静止し，壁が開くとともに兵士が現れた。悪寒がはしっ
+  た。兵士一人であればさほど強くない。しかし相手は囮を使って敵を誘い込
+  み，物量で対抗する作戦のようだ。
+
+
+
+
+
+  <br>
+  <br>
+  燃えさかる腹-08へ
+
+  <br>
+  [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
+  <br>
+  <br>
+  この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
+
+  This document is under a [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][License Creative Commons Attribution Non Commercial Share Alike 4.0 International]]
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png]]
+
