@@ -31,12 +31,12 @@
   如何によって動くことはないだろう。
 
   道がつながったところで騎士との戦いが有利になったわけではない。だが，
-  そこに必ず騎士を倒すための糸口があると確信し，再びエスは黒光りする鎧
-  の巨人へと挑んでいった。
+  そこに必ず騎士を倒すための糸口があると確信し，再びエスは黒く光る鎧の
+  巨人へと挑んでいった。
 
   <br>
   <br>
-  燃えさかる腹-11へ
+  [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/11.md][燃えさかる腹-11へ]]
 
   <br>
   [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
