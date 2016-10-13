@@ -47,7 +47,7 @@
 
   <br>
   <br>
-  聖樹の炎へ
+  聖樹の炎01へ
 
   <br>
   [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
