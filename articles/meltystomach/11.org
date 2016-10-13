@@ -44,7 +44,7 @@
   
   <br>
   <br>
-  燃えさかる腹-12へ
+  [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/meltystomach/12.md][燃えさかる腹-12へ]]
 
   <br>
   [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
