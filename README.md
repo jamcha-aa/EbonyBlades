@@ -55,7 +55,8 @@
 
 -   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/sacredtree/01.md)
 -   [02](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/sacredtree/02.md)
--   03
+-   [03](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/sacredtree/03.md)
+-   04
 
 ## 水の都ローメシア
 
