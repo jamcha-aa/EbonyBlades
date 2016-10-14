@@ -53,7 +53,8 @@
 
 ## 聖樹の炎
 
--   01
+-   [01](https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/sacredtree/01.md)
+-   02
 
 ## 水の都ローメシア
 
