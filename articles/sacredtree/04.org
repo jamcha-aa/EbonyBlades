@@ -54,7 +54,7 @@
   
   <br>
   <br>
-  聖樹の炎-05へ
+  [[https://github.com/jamcha-aa/EbonyBlades/blob/master/articles/sacredtree/05.md][聖樹の炎-05へ]]
 
   <br>
   [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
