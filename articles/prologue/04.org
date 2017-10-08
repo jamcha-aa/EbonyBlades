@@ -40,10 +40,13 @@
 
   <br>
   <br>
+
   [[../basecamp/01.md][最果ての地-01へ]]
 
   <br>
+
   [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
+
   <br>
   <br>
   この物語はフィクションであり，実在の人物・団体とは一切関係ありません。

@@ -38,10 +38,13 @@
   
   <br>
   <br>
+
   [[./02.md][リギュラの炎塔-02へ]]
 
   <br>
+
   [[https://github.com/jamcha-aa/EbonyBlades/blob/master/README.md][目次へ戻る]]
+
   <br>
   <br>
   この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
