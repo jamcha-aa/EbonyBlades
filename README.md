@@ -12,7 +12,6 @@
 <https://jamcha-aa.gitbook.io/ebonyblades/>  
 
 <br>  
-スマホの場合は画面左上の「≡」で目次の表示/非表示ができます。  
 
 <br>  
 <br>  
