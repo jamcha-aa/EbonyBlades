@@ -1,1 +1,0 @@
-This document will contain details of map, enemy, and scenarios.
